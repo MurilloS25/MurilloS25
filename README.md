@@ -9,7 +9,7 @@
 
 ### 🧑‍💼 About Me
 
-I'm a self-taught and passionate developer who enjoys learning, experimenting, and creating. I’m constantly improving my skills and keeping up with modern technologies. Currently, I’m working with C# and .NET in real-world projects, while also learning and building modern web applications with JavaScript, TypeScript and React. I’m especially interested in automation, AI integration, and platforms like Salesforce and SharePoint.
+I'm a self-taught and passionate developer who enjoys learning, experimenting, and creating. I’m constantly improving my skills and keeping up with modern technologies. Currently, I’m working with C# and .NET in real-world projects, while also learning and building modern web applications with JavaScript, TypeScript and React. I’m especially interested in automation, AI integration.
 
 ---
 
