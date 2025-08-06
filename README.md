@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sebastián Murillo 👋</h1>
 
 <p align="center">
-  <strong>Passionate about software development and building scalable solutions.</strong><br>
+  <strong>Curious and motivated software developer focused on learning and building useful things.</strong><br>
   📍 Alajuela, Costa Rica | 🧑‍💻 Software Engineer
 </p>
 
@@ -9,38 +9,33 @@
 
 ### 🧑‍💼 About Me
 
-I'm a creative and analytical software engineer who enjoys solving real-world problems through code. I have experience working with modern technologies across the stack and a growing interest in automation, backend development, and clean architecture. Always learning, always building.
+I'm a self-taught and passionate developer who enjoys learning, experimenting, and creating. I’m constantly improving my skills and keeping up with modern technologies. Currently, I’m working with C# and .NET in real-world projects, while also learning and building modern web applications with JavaScript, TypeScript and React. I’m especially interested in automation, AI integration, and platforms like Salesforce and SharePoint.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
+#### 👨‍💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Databases & APIs
-![SQL](https://img.shields.io/badge/SQL-%2300B4DB.svg?style=flat&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+#### 🛠️ Tools & Platforms
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
-#### Tools & Automation
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-- 🏢 [AppCondominio](https://github.com/MurilloS25/AppCondominio) – Condominium management system using ASP.NET MVC
-- 💼 [AppGestionPlanillas](https://github.com/MurilloS25/AppGestionPlanillas) – Payroll management system using Java (JSF)
-- 🛍️ [E-Commerce Static Site](https://murillos25.github.io/ProyectoEcommerce/index.html) – Responsive site using HTML, CSS, and Bootstrap
+#### 🗃️ Databases & APIs
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
