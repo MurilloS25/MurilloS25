@@ -1,45 +1,50 @@
-<h1 align="center">¡Hola, soy Sebastián Murillo! 👋</h1>
+<h1 align="center">Hi, I'm Sebastián Murillo 👋</h1>
 
 <p align="center">
-  <strong>Desarrollador de software enfocado en soluciones escalables, arquitectura limpia y automatización.</strong><br>
-  📍 Alajuela, Costa Rica | 🎓 Ingeniería en Software (UTN, 2024) <br>
-  🌐 <a href="https://www.linkedin.com/in/sebasti%C3%A1n-murillo-sabor%C3%ADo-8b3689257/">LinkedIn</a> | <a href="https://github.com/MurilloS25">GitHub</a>
+  <strong>Passionate about software development and building scalable solutions.</strong><br>
+  📍 Alajuela, Costa Rica | 🧑‍💻 Software Engineer
 </p>
 
 ---
 
-### 💼 Sobre mí
+### 🧑‍💼 About Me
 
-- 💻 Estudiante avanzado de Ingeniería de Software
-- ⚙️ Trabajo con tecnologías como **C# .NET, Java, Angular, Node.js, y SQL**
-- 🧠 Apasionado por la arquitectura de software, patrones de diseño y proyectos bien estructurados
-- 🚀 Actualmente aprendiendo **React, Next.js** y aplicando **IA y automatización** en proyectos personales
+I'm a creative and analytical software engineer who enjoys solving real-world problems through code. I have experience working with modern technologies across the stack and a growing interest in automation, backend development, and clean architecture. Always learning, always building.
 
 ---
 
-### 🧰 Tecnologías y herramientas
+### 🛠️ Tech Stack
 
+#### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
+
+#### Databases & APIs
+![SQL](https://img.shields.io/badge/SQL-%2300B4DB.svg?style=flat&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+
+#### Tools & Automation
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📂 Proyectos destacados
+### 📌 Featured Projects
 
-- 🏢 [AppCondominio](https://github.com/MurilloS25/AppCondominio) – Sistema de administración de condominio con .NET MVC
-- 💼 [AppGestionPlanillas](https://github.com/MurilloS25/AppGestionPlanillas) – Sistema de gestión de planillas en Java (JSF)
-- 🛍️ [Proyecto Ecommerce](https://murillos25.github.io/ProyectoEcommerce/index.html) – Sitio web estático con HTML, CSS y JavaScript
+- 🏢 [AppCondominio](https://github.com/MurilloS25/AppCondominio) – Condominium management system using ASP.NET MVC
+- 💼 [AppGestionPlanillas](https://github.com/MurilloS25/AppGestionPlanillas) – Payroll management system using Java (JSF)
+- 🛍️ [E-Commerce Static Site](https://murillos25.github.io/ProyectoEcommerce/index.html) – Responsive site using HTML, CSS, and Bootstrap
 
 ---
 
-### 📈 Stats
+### 📈 GitHub Stats
 
 ![MurilloS25 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurilloS25&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloS25&layout=compact&theme=radical)
-
----
